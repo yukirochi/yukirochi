@@ -5,6 +5,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yukirochi&theme=dark&hide_border=true&background=000000&stroke=222222&ring=444444&fire=666666&currStreakNum=ffffff)](https://git.io/streak-stats)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/yukirochii?theme=dark&%20PLUS%201&colors=000000%2C222222%2Cffffff%2Cffffff%2C444444%2C666666%2C666666%2C666666)
 ---
 
 </div>
