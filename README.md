@@ -58,6 +58,10 @@ I am a 3rd-year Computer Engineering student with a deep interest in the Data En
         <a href="https://www.datacamp.com/certificate/SQA0014011767255" target="_blank">
           <img src="https://media.datacamp.com/legacy/Certification/Badges%202024/outline/SQL_Associate_-_badge_with_outline.png" alt="DataCamp Associate " width="130" style="filter: grayscale(100%) brightness(0.8);" />
         </a>  
+<td>
+        <a href="https://www.datacamp.com/certificate/DE0011892904299" target="_blank">
+          <img src="https://media.datacamp.com/legacy/Certification/Badges%202024/outline/DE_-_badge_with_outline.png" alt="DataCamp data engineer " width="130" style="filter: grayscale(100%) brightness(0.8);" />
+        </a>  
   </table>
 </div>
 
