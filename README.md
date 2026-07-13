@@ -11,7 +11,7 @@
 </div>
 
 ## About Me
-I am a 3rd-year Computer Engineering student with a deep interest in the Data Engineering lifecycle. I focus on the intersection of hardware efficiency and software scalability, specifically how data moves from source to destination through reliable, automated pipelines.
+I am a 4th-year Computer Engineering student with a deep interest in the Data Engineering lifecycle. I focus on the intersection of hardware efficiency and software scalability, specifically how data moves from source to destination through reliable, automated pipelines.
 
 - Currently bridging Computer Engineering principles with ETL/ELT workflows using Airflow, dbt, and Snowflake.
 - Exploring cloud computing foundations and distributed systems within AWS and Azure.
