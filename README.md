@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Justine%20Abanilla&fontSize=34&fontAlignY=40&color=0:000000,100:121212&fontColor=ffffff&desc=3rd%20Year%20Computer%20Engineering%20Student%20|%20Aspiring%20Data%20Engineer&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Justine%20Abanilla&fontSize=34&fontAlignY=40&color=0:000000,100:121212&fontColor=ffffff&desc=4th%20Year%20Computer%20Engineering%20Student%20|%20Aspiring%20Data%20Engineer&descAlignY=60&descSize=18" />
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yukirochi&theme=dark&mode=weekly&hide_border=true&background=000000&stroke=222222&ring=444444&fire=666666&currStreakNum=ffffff)](https://git.io/streak-stats)
