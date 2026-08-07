@@ -66,6 +66,10 @@ I am a 4th-year Computer Engineering student with a deep interest in the Data En
         </a> 
        
   </table>
+  <br />
+  <a href="https://github.com/yukirochi/More_certifications" target="_blank">
+    <img src="https://img.shields.io/badge/View_More_Certifications-1a1a1a?style=for-the-badge&logo=github&logoColor=white" alt="More Certifications" />
+  </a>
 </div>
 
 
